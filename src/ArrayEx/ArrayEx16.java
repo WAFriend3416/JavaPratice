@@ -1,3 +1,4 @@
+package ArrayEx;
 public class ArrayEx16 {
     public static void main(String[] args) {
         if(args != null){

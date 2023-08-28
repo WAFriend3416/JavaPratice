@@ -1,3 +1,5 @@
+package ArrayEx;
+
 import java.util.*;
 
 public class ArrayEx2 {

@@ -1,3 +1,4 @@
+package ArrayEx;
 import javax.swing.*;
 
 public class ArrayEx5 {

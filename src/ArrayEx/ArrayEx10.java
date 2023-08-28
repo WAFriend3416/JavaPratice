@@ -1,3 +1,4 @@
+package ArrayEx;
 //버블정렬
 public class ArrayEx10 {
     public static void main(String[] args) {

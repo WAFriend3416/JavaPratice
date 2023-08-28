@@ -1,3 +1,4 @@
+package ArrayEx;
 public class ArrayEx8 {
     public static void main(String[] args) {
         int [] ball = new int[45];
